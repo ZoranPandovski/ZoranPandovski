@@ -1,4 +1,4 @@
-<h1 align="center">
+<!--<h1 align="center">
   <img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" alt="Hello World">
 </h1>
 
@@ -12,5 +12,6 @@
 
 <div align="center">
 <p></p>
-<!-- <img src="https://profile-counter.glitch.me/ZoranPandovski/count.svg" alt="hit counter" align="center"> --->
+ <img src="https://profile-counter.glitch.me/ZoranPandovski/count.svg" alt="hit counter" align="center"> 
 </div>
+--->
