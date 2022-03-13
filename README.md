@@ -1,19 +1,6 @@
-<!--<h1 align="center">
-  <img src="https://media.giphy.com/media/YPJ5gi3MZzSjhtQTIk/giphy.gif" alt="Hello World">
+<h2  align="center">
+ <img src="https://github-readme-streak-stats.herokuapp.com/?user=ZoranPandovski&theme=default&background=#0969da"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ZoranPandovski" />
 </h1>
 
-## What I do?
-<h2  align="">
-  <img src="https://media.giphy.com/media/LOJeUwhWT63DMEG7b9/giphy.gif" width="200px" height="200px" />
-  <img src="https://media.giphy.com/media/1094xSp23iiiv6/giphy.gif" width="200px" height="200px" />
-  <img src="https://media.giphy.com/media/9PTaAhwri56V2/giphy.gif" width="200px" height="200px" />
-</h1>
-
-
-<div align="center">
-<p></p>
- <img src="https://profile-counter.glitch.me/ZoranPandovski/count.svg" alt="hit counter" align="center"> 
-</div>
---->
-  <img src="https://media.giphy.com/media/dzaUX7CAG0Ihi/giphy.gif" width="100px" height="100px" />
 
